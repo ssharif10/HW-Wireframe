@@ -1,0 +1,108 @@
+body {
+	background-color: #777;
+}
+
+header {
+	font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+	font-size: 18px;
+	text-align: center;
+	background-color: #ebebeb;
+	font-color: #777;
+	width: 960px;
+	padding: 30px;
+	margin: 10px;
+}
+
+nav {
+	font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+	font-size: 18px;
+	text-align: center;
+	background-color: #ebebeb;
+	font-color: #777;
+	width: 960px;
+	padding: 30px;
+	margin: 10px;
+
+}
+
+aside {
+	font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+	font-size: 18px;
+	text-align: center;
+	background-color: #ebebeb;
+	font-color: #777;
+	display: inline-block;
+	width: 305px;
+	padding: 90px;
+	margin: 10px;
+
+}	
+
+section {
+	font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+	font-size: 18px;
+	text-align: center;
+	background-color: #ebebeb;
+	font-color: #777;
+	float: left;
+	width: 495px;
+	padding: 10px;
+	margin: 10px;
+}
+
+.article-section {
+	font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+	font-size: 18px;
+	text-align: center;
+	font-color: #ebebeb;
+	background-color: #777;
+	padding: 20px;
+}
+
+.head {
+	font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+	font-size: 18px;
+	text-align: center;
+	background-color: #ebebeb;
+	font-color: #777;
+	padding: 10px;
+	margin: 5px;
+
+}
+
+.content {
+	font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+	font-size: 18px;
+	text-align: center;
+	background-color: #ebebeb;
+	font-color: #777;
+	padding: 10px;
+	margin: 5px;
+
+}
+
+footer {
+	font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+	font-size: 18px;
+	text-align: center;
+	background-color: #ebebeb;
+	font-color: #777;
+	width: 960px;
+	padding: 30px;
+	margin: 10px;
+	clear: both;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
